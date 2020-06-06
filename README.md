@@ -1,5 +1,5 @@
 # Calculator-App
-> This repository contains Android project which is developed for the [**#30DaysOfKotlin**](https://twitter.com/hashtag/30daysofkotlin?lang=en) with Google Developers <br>
+> This is my first Android project which is developed for the [**#30DaysOfKotlin**](https://twitter.com/hashtag/30daysofkotlin?lang=en) with Google Developers <br>
 A Simple Calculator  Android application developed using Kotlin. The project is a part 30 Days of Kotlin with Google Developers
 
 
