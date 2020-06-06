@@ -3,7 +3,7 @@
 A Simple Calculator  Android application developed using Kotlin. The project is a part 30 Days of Kotlin with Google Developers
 
 
-<p align="center"> <h2> Preview of App </h2> </p>
+## App Preview
 <table style="width:100%">
   <tr>
     <th>Home</th>
